@@ -1,0 +1,30 @@
+table.liensPages{
+    text-align: center;
+    padding: 15px;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.lienslignes{
+    background-color: rgb(4, 4, 60);
+}
+
+.rowliens{
+    color:white;
+    display: inline-block;
+    padding: 20px 30px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.liens{
+    text-decoration: none;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
