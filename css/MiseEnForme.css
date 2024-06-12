@@ -28,3 +28,9 @@ table{
 h1{
     text-align: center;
 }
+
+
+.images{
+    width: auto;
+    height: 500px;
+}
