@@ -35,7 +35,10 @@ Sélectionner votre navigateur Web (Google Chrome, Firefox, Edge, Safari...) et 
 VOILA! Vous avez accès à toute la présentation de mon Portefolio :3
 
 Liens vidéos youtube pour vous aider: 
+
 Télécharger un dossier GITHUB : https://youtube.com/shorts/qTv4eafPrm0?si=lV6PW10BerX7_rBL
+
 Dézipper un dossier : https://www.youtube.com/watch?v=sMF9dp-2tc8
+
 Ouvrir un fichier HTML sur votre navigateur web: https://www.youtube.com/watch?v=wl4PjvqcnbY
 
