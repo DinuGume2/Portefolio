@@ -34,3 +34,7 @@ h1{
     width: auto;
     height: 500px;
 }
+
+.textImage{
+    text-align: center;
+}
