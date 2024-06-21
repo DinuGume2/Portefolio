@@ -40,23 +40,65 @@ table{
     color:red;
 }
 
+.lienVideo{
+    color: white;
+    background-color: rgb(4, 4, 60);
+    border: none;
+    display: inline-block;
+    text-align: center;
+    padding: 16px 16px;
+    font-size: 15px;
+    border-radius: 12px;
+}
+.lienVideo:active{
+    background-color: blue;
+    color:red;
+}
+.lienVideo:hover{
+    background-color: white;
+    color:blue;
+}
+
 h1{
     text-align: center;
 }
 
 p{
     text-align: center;
+    font-size: 18px;
 }
 
 li{
     text-align: center;
+    font-size: 18px;
 }
 
 .images{
-    width: auto;
     height: 500px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 .textImage{
     text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    margin-top: 20px 0;
+    margin-left: 5%;
+}
+.imageIUT{
+    width: 200px;
+    height: auto;
+    margin-right: 20px;
+}
+.titreIUT{
+    margin: 0;
+    font-size: title;
 }
