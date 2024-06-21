@@ -18,6 +18,7 @@ Il faudra encore faire un double click gauche dessus.
 Un fois toutes ces étapes faites.
 Il faudra ouvrir un navigateur Web (Google Chrome, Firefox, Edge, Safari...).
 
+
 Méthode 1:
 Faire un double click gauche sur un fichier HTML ("nom d'un fichier.html").
 Puis Sélectionner un navigateur Web (Google Chrome, Firefox, Edge, Safari...).
@@ -33,6 +34,7 @@ Sélectionner votre navigateur Web (Google Chrome, Firefox, Edge, Safari...) et 
 
 
 VOILA! Vous avez accès à toute la présentation de mon Portefolio :3
+
 
 Liens vidéos youtube pour vous aider: 
 
