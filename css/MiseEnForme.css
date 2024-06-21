@@ -21,14 +21,36 @@ table{
 }
 
 .liens{
-    text-decoration: none;
+    color: white;
+    background-color: rgb(4, 4, 60);
+    border: none;
+    display: inline-block;
     text-align: center;
+    padding: 32px 16px;
+    margin-left: 46%;
+    font-size: 20px;
+    border-radius: 12px;
+}
+.liens:hover{
+    background-color: white;
+    color:blue;
+}
+.liens:active{
+    background-color: blue;
+    color:red;
 }
 
 h1{
     text-align: center;
 }
 
+p{
+    text-align: center;
+}
+
+li{
+    text-align: center;
+}
 
 .images{
     width: auto;
