@@ -70,12 +70,7 @@ h3{
 }
 
 p{
-    text-align: center;
-    font-size: 18px;
-}
-
-li{
-    text-align: center;
+    text-align: left;
     font-size: 18px;
 }
 
@@ -107,4 +102,9 @@ li{
 .titreIUT{
     margin: 0;
     font-size: title;
+}
+
+.liste{
+    text-align:left;
+    font-size: 18px;
 }
